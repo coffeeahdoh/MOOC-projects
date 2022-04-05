@@ -1,0 +1,1 @@
+Practice problems and projects from "An Introduction to Interactive Programming in Python (Part 1)" from Rice University available on Coursera. The course is taught using Python 2, but overall concepts remain the same.
